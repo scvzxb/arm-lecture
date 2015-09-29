@@ -22,6 +22,10 @@ fibonacci:
 	ble 	.L4
 
 
+	@TEST
+	@TEST
+	
+
 
 	mov		r5, #1	@previous
 	mov  	r3, #0  @result
